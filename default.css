@@ -1,0 +1,22 @@
+/*
+ * SHELTERED SAVE EDITOR
+ * File Name: main.css
+ * Version: 1.1
+ * Author: Emre Cebeci
+ * GitHub: https://github.com/emreyigitcbc/
+ */
+
+.editor-nav {
+    font-size: 16px;
+    text-align: center;
+    border: 1px white solid;
+    width: auto;
+    border-radius: 10px;
+}
+.editor-nav-item {
+    border: none;
+    background: gray;
+    padding: 7px;
+    margin: 5px;
+    border-radius: 5px;
+}
